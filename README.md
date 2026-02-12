@@ -10,8 +10,10 @@ During the 2020-2021 school year, due to the shutdown of in-person activities, s
 There is free food available to those in need, but it can be quite a daunting task to find where it is available let alone work out the scheduling required in order to receive it (example below). 
 
 I have seen cars lined up as early as 6:30am at one location that has a sign that reads 
-  "FOOD BANK 3RD THURS & 4TH TUES
-  930 TIL FOOD IS OUT"
+
+  "FOOD BANK 3RD THURS & 4TH TUES<br>930 TIL FOOD IS OUT"
+
+This is a simple, but descriptive, example of the huge burden for the food insecure to navigate the scheduling, location, and scarcity of free food resources. 
 
 ## Proposed Solution
 
